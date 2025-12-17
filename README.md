@@ -1,4 +1,4 @@
 # english-dictionary
 english dictionary 
 
-english dictionary with 
+english dictionary with above **400k words**
